@@ -10,3 +10,6 @@
 
 ![](https://github.com/sdarlin/Sadykova_TZ3/blob/main/Диаграмма%20классов.jpg)
 ![](https://github.com/sdarlin/Sadykova_TZ3/blob/main/Диаграмма%20последовательности.jpg)
+![](https://github.com/sdarlin/Sadykova_TZ3/blob/main/деятельности.jpg)
+![](https://github.com/sdarlin/Sadykova_TZ3/blob/main/использование.jpg)
+![](https://github.com/sdarlin/Sadykova_TZ3/blob/main/состояния.jpg)
